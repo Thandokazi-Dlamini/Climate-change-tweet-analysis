@@ -26,3 +26,5 @@ These results suggest a strong performance in identifying tweets from individual
 
 # Code and Notebook
 For a detailed view of the analysis and modeling, you can access the Jupyter Notebook: 
+- [Climate Change Tweet Classification Notebook](https://github.com/Thandokazi-Dlamini/Climate-change-tweet-analysis/blob/main/Climate%20Change%20Tweet%20Analysis.ipynb)
+
